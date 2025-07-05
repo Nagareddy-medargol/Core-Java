@@ -1,2 +1,64 @@
 What is java?
-Java is object-orinted programing language which is used for developing Software for humann life easy..
+Java is object-orinted programing language which is used to develop Software which makes humann life easy..
+
+What is programming language?
+It is a medium to communicate between human and machine to develop software,which will make human life easy.
+
+what is language ?
+language is medium to communicate between to entities.
+
+Tokens :- Tokens are the smallest unit program.
+In tokeens we have 1] Indentifier
+                   2] Keywords
+                   3] Literals
+                   4] Operators
+                   5] Separaters
+                   6] comments
+
+Identifier :- Are the name given for the java program.
+               1] An identifier cannot be keywords.
+
+Keywords :- Keywords are the pre-defined words which as it own meaning in java .
+
+We have 50 keywords :-
+
+abstract  	 continue   	for	           new	          switch
+assert***	   default	    goto*      	   package        synchronized
+boolean	     do           if	           private	      this
+break    	   double	      implements	   protected	    throw
+byte	       else	        import   	     public	        throws
+case      	enum****	    instanceof 	   return	        transient
+catch	      extends	      int	           short          try
+char	      final	        interface 	   static         void
+class	      finally   	  long	         strictfp**	    volatile
+const*  	  float	        native	       super           while
+
+Literals :- Literals are the value which is used to perform some operation..
+
+In literals we have 
+   1] Numeric literals
+   2] String literals
+   3] character literals
+   4] Boolean literals
+
+Operators :- Operators is an symbol which is used perform sum operations on the operands.
+
+Separators :-Seprators are used to separate the given code.
+ 1] {} Braces
+ 2] [] Brackets
+ 3] () Paranthesis
+ 4] ; Semi-colon
+ 5] , Comma
+
+Comments :- Are use to provide additional information for the java program.
+In cooment we have 
+1] Single line comments  //______
+2] Block line comments /*_______________________*/
+
+What is Software?
+Software is a set of code which is used to perform a particular task.
+
+We have 3 kind of software.
+ 1] Stand alone application
+ 2] client-server application
+ 3] Web-application
